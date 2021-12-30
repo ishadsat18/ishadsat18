@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @ISHADSAT18
+- 👀 I’m interested in ...CODING AND HACKING
+- 🌱 I’m currently learning ...CEH
+- 💞️ I’m looking to collaborate on ... TO GET THE JOB 
+- 📫 How to reach me ... U CAN MAIL ME 
+
+<!---
+ishadsat18/ishadsat18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
